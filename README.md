@@ -6,7 +6,7 @@ About Me
 I have been working as a UX and React front-end developer for more than two years. I have an innovative creative idea for the PSD to HTML5/CSS3. I have a good knowledge of the web and apps. I am able to work in a team or independently. I have experience working with different software, including the following:
 
 My skills:
-Designing: Adobe Photoshop CC, Illustrator CC, Premiere Pro.
+Designing: Adobe Photoshop CC, Illustrator CC, Premiere Pro.                                                                                                                          
 Frontend: HTML5, CSS3, Bootstrap 5x, SASS, React.
 
 Other Skills:
