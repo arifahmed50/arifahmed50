@@ -11,7 +11,7 @@ Frontend: HTML5, CSS3, Bootstrap 5x, SASS, React.
 
 Other Skills:                                                                                                                                                                           
 MS Word                                                                                                                                                                               
-MS Excel
+MS Excel                                                                                                                                                                                     
 MS PowerPoint
 
 
